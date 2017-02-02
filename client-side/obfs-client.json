@@ -1,0 +1,10 @@
+{
+	"server":"63.223.77.49",
+	"server_port":18989,
+	"local_address":"127.0.0.1",
+	"local_port":1984,
+	"time_out":600,
+	"fast_open":false,
+	"obfs":"http",
+	"obfs-host":"www.bing.com"
+}
