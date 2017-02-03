@@ -1,6 +1,7 @@
 {
 	"server":"127.0.0.1",
 	"server_port":1984,
+	"local_port":1080,
 	"password":"fuckccp!@#$",
 	"timeout":600,
 	"method":"chacha20",
