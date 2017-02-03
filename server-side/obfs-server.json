@@ -1,0 +1,9 @@
+{
+	"server":"0.0.0.0",
+	"server_port":18989,
+	"local_port":1984,
+	"timeout":600,
+	"method":"chacha20",
+	"fast_open":false,
+	"obfs":"http"
+}
