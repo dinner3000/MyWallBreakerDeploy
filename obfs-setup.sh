@@ -42,5 +42,5 @@ try_run "./autogen.sh"
 try_run "./configure" "--prefix=${INS_PATH}"
 
 exec_cmd "make"
-#exec_cmd "make install"
+exec_cmd "make install"
 
